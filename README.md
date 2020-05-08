@@ -31,7 +31,7 @@ Safari:	https://webkit.org/blog/6900/webdriver-support-in-safari-10/
 
  - In order to execute code
    ```
-    python orange_hrm.py
+    python test_suites/AllSuites.py
    ```
  - create clone in you system just execute this file
   	```
